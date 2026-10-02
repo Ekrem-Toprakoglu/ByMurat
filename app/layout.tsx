@@ -1,10 +1,11 @@
 import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
+import { CookieBanner } from '../components/cookie-banner'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'BY MURAT — Damen & Herren Friseursalon',
-  description: 'BY MURAT. Präzision, Stil und Persönlichkeit — dein Friseursalon in Berlin.',
+  title: 'BY MURAT Friseursalon — Damen | Herren | Kids',
+  description: 'BY MURAT Friseursalon — Exklusive Haarfarben, Balayage & Styling. Inhaber: Sükrü Murat Ayan.',
   generator: 'v0.app',
   icons: {
     icon: [
@@ -42,6 +43,7 @@ export default function RootLayout({
     <html lang="de">
       <body className="antialiased">
         {children}
+        <CookieBanner />
         {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
     </html>

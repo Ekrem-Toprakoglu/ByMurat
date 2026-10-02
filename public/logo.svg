@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" role="img" aria-label="BY MURAT Damen und Herren Friseursalon">
+  <title>BY MURAT Damen &amp; Herren Friseursalon</title>
+  <g fill="#f1f0ec">
+    <path d="M378 46 l-10 42 h-6 l-10-42 l9 20 l4 -10 l4 10 z M352 70 l-8 24 h-4 l-4 -12 l6 -18 z M408 70 l8 24 h4 l4 -12 l-6 -18 z M330 82 l-6 14 h-4 l-2 -10 z M430 82 l6 14 h4 l2 -10 z" />
+    <circle cx="320" cy="76" r="4" />
+    <circle cx="340" cy="60" r="4" />
+    <circle cx="380" cy="42" r="4" />
+    <circle cx="420" cy="60" r="4" />
+    <circle cx="440" cy="76" r="4" />
+    <rect x="316" y="98" width="128" height="8" />
+    <text x="380" y="200" font-family="'Arial Black','Helvetica Neue',sans-serif" font-weight="900" font-size="110" letter-spacing="-2" text-anchor="middle">BY   MURAT</text>
+    <text x="380" y="268" font-family="'Arial','Helvetica Neue',sans-serif" font-weight="400" font-size="42" letter-spacing="0" text-anchor="middle">Damen &amp; Herren Friseursalon</text>
+  </g>
+</svg>
