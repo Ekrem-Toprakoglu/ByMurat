@@ -7,23 +7,6 @@ export const metadata: Metadata = {
   title: 'BY MURAT Friseursalon — Damen | Herren | Kids',
   description: 'BY MURAT Friseursalon — Exklusive Haarfarben, Balayage & Styling. Inhaber: Sükrü Murat Ayan.',
   generator: 'v0.app',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
 }
 
 export const viewport: Viewport = {
